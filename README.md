@@ -1,4 +1,4 @@
-# Brett Wine and Cheese
+# Brett, Wine and Cheese
   [![project-languages-used](https://img.shields.io/github/languages/count/katiechurchwell/Brett-Wine-Cheese?color=important)](https://github.com/katiechurchwell/Brett-Wine-Cheese)
   [![project-top-language](https://img.shields.io/github/languages/top/katiechurchwell/Brett-Wine-Cheese?color=blueviolet)](https://github.com/katiechurchwell/Brett-Wine-Cheese)
 

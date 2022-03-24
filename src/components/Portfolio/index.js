@@ -1,5 +1,4 @@
 import React from 'react';
-// import * as photos from '../../assets/images/baking';
 
 function Portfolio() {
 
@@ -17,7 +16,7 @@ function Portfolio() {
                                     <div className="card shadow-sm">
                                         <img
                                             src={require(`../../assets/images/baking/Photo${i + 1}.jpg`)}
-                                            className="bd-placeholder-img card-img-top"
+                                            className="portfolio-img bd-placeholder-img card-img-top"
                                             width="100%"
                                             height="225"
                                             key={i}

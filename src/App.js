@@ -1,14 +1,10 @@
-import React, { useState } from 'react';
+import React from 'react';
 import Nav from './components/Nav';
-import About from './components/About';
-import Gallery from './components/Gallery';
-import Contact from './components/Contact';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-      </header>
+    <div>
+      <Nav></Nav>
     </div>
   );
 }

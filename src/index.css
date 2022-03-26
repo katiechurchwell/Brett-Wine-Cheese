@@ -2,6 +2,11 @@
   object-fit: cover;
 }
 
-#myCarousel > div.carousel-inner > div.carousel-item.active {
-  height: 560px;
+#myCarousel > div.carousel-inner {
+  height: 80vh;
+}
+
+#myCarousel img {
+  width: 100vw;
+  object-position: 0 -140px;
 }

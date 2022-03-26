@@ -6,8 +6,6 @@ import Portfolio from './components/Portfolio';
 import Contact from './components/Contact';
 
 function App() {
-  // const [contactSelected, setContactSelected] = useState(false);
-  // const [aboutSelected, setAboutSelected] = useState(false);
   const [view, setView] = useState('default')
 
   const handleView = (page) => {

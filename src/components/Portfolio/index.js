@@ -15,7 +15,7 @@ function Portfolio() {
                                 <div className="col">
                                     <div className="card shadow-sm">
                                         <img
-                                            src={require(`../../dist/assets/images/Photo${i + 1}.jpg`)}
+                                            src={require(`../../images/thumbnail/Photo${i + 1}.jpg`)}
                                             className="portfolio-img bd-placeholder-img card-img-top"
                                             width="100%"
                                             height="225"

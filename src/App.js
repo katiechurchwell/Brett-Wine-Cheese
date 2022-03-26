@@ -26,7 +26,7 @@ function App() {
             case 'portfolio':
               return <Portfolio></Portfolio>
             case 'about':
-              return <About></About>
+              return <About handleView={handleView}></About>
             case 'contact':
               return <Contact></Contact>
           }

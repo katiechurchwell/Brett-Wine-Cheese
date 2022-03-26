@@ -7,13 +7,14 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript_ES6-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=f&logo=bootstrap&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
-<!-- summary -->
+This portfolio was built for Brett Claus, a Pastry Chef as an exercise in React single page applications. It's styled with Bootstrap. 
 ## Deployment
 
 ## Screenshot
-
+![Sceenshot of React Portfolio](./screenshot.png)
 ## Questions
   If you have any questions about this project, please open an issue or use the contact information below:
   * [katiechurchwell](https://www.github.com/katiechurchwell)

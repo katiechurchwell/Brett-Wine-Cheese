@@ -10,3 +10,15 @@
   width: 100vw;
   object-position: 0 -140px;
 }
+
+.modal-dialog {
+  z-index: 2;
+  position: sticky;
+  top: 0;
+  right: 45%;
+  height: 0;
+}
+
+.modal-content {
+  width: 60vw;
+}

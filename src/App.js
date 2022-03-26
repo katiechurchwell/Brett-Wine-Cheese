@@ -4,6 +4,7 @@ import Carousel from './components/Carousel';
 import About from './components/About';
 import Portfolio from './components/Portfolio';
 import Contact from './components/Contact';
+import Footer from './components/Footer';
 
 function App() {
   const [view, setView] = useState('default')
@@ -32,6 +33,7 @@ function App() {
           }
         })()}
       </main>
+      <Footer></Footer>
     </div>
   );
 }

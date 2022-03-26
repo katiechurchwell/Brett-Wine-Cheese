@@ -11,7 +11,7 @@
 
 This portfolio was built for Brett Claus, a Pastry Chef, as an exercise in React single page applications. It's styled with Bootstrap. 
 ## Deployment
-
+http://katiechurchwell.github.io/Brett-Wine-Cheese
 ## Screenshot
 ![Sceenshot of React Portfolio](./screenshot.png)
 ## Questions

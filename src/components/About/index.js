@@ -1,5 +1,5 @@
 import React from 'react';
-import placeholderImage from "../../assets/images/placeholder.svg";
+import placeholderImage from "../../dist/assets/placeholder.svg";
 
 function About() {
     return (

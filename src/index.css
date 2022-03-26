@@ -1,3 +1,7 @@
 .portfolio-img {
-object-fit: cover;
+  object-fit: cover;
+}
+
+#myCarousel > div.carousel-inner > div.carousel-item.active {
+  height: 560px;
 }

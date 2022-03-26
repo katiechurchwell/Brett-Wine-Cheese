@@ -7,6 +7,26 @@ body {
   max-height: 100%;
 }
 
+:root {
+  --primary: #f6f4f3;
+  --secondary: #383d3b;
+  --tertiary: #dd7230;
+}
+
+.btn-primary {
+  background-color: var(--tertiary) !important;
+  border: none !important;
+}
+
+h1 {
+  color: var(--tertiary);
+}
+
+.navbar li {
+  list-style-type: none;
+  cursor: pointer;
+}
+
 .portfolio-img {
   object-fit: cover;
 }

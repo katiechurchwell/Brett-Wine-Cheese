@@ -11,6 +11,8 @@ body {
   --primary: #f6f4f3;
   --secondary: #383d3b;
   --tertiary: #dd7230;
+  --title: 'Paytone One', sans-serif;
+  --header: 'Roboto Mono', monospace;
 }
 
 a {
@@ -31,9 +33,36 @@ h1 {
   color: var(--tertiary);
 }
 
+.navbar-brand {
+  background-color: var(--tertiary);
+  color: var(--primary) !important;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+  font-size: clamp(15px, 2vw, 30px);
+  font-family: var(--title) !important;
+}
+
 .navbar li {
   list-style-type: none;
   cursor: pointer;
+  font-family: var(--header);
+}
+
+.navbar li:hover {
+  color: var(--tertiary) !important;
+}
+
+li.navbar-brand:hover {
+  color: var(--primary) !important;
+}
+
+h1 {
+  font-family: var(--header);
+}
+
+footer {
+  font-family: var(--header);
 }
 
 .portfolio-img {

@@ -16,6 +16,11 @@ function ContactForm() {
                             <input type="text" className="form-control" name="name" id="name" />
                         </div>
                         <div>
+                            <label className="form-label" for="email">Email</label>
+                            <br />
+                            <input type="email" className="form-control" name="email" id="email" />
+                        </div>
+                        <div>
                             <label className="form-label">Comments</label>
                             <br />
                             <textarea name="comments" className="form-control" rows="5" cols="35"></textarea>

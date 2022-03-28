@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Brett-Wine-Cheese/static/css/main.8696d00c.css",
-    "main.js": "/Brett-Wine-Cheese/static/js/main.eb37f079.js",
+    "main.css": "/Brett-Wine-Cheese/static/css/main.000d2dfa.css",
+    "main.js": "/Brett-Wine-Cheese/static/js/main.267176b3.js",
     "static/js/787.c67f3df0.chunk.js": "/Brett-Wine-Cheese/static/js/787.c67f3df0.chunk.js",
     "static/media/Photo17.jpg": "/Brett-Wine-Cheese/static/media/Photo17.0bd97e27f938b0ecb494.jpg",
     "static/media/Photo12.jpg": "/Brett-Wine-Cheese/static/media/Photo12.507b52fbe31a940563db.jpg",
@@ -34,12 +34,12 @@
     "static/media/Photo29.jpg": "/Brett-Wine-Cheese/static/media/Photo29.bb8f0d57704431a91ba5.jpg",
     "static/media/headshot.jpeg": "/Brett-Wine-Cheese/static/media/headshot.ea6ff3f69ad8460d7ed8.jpeg",
     "index.html": "/Brett-Wine-Cheese/index.html",
-    "main.8696d00c.css.map": "/Brett-Wine-Cheese/static/css/main.8696d00c.css.map",
-    "main.eb37f079.js.map": "/Brett-Wine-Cheese/static/js/main.eb37f079.js.map",
+    "main.000d2dfa.css.map": "/Brett-Wine-Cheese/static/css/main.000d2dfa.css.map",
+    "main.267176b3.js.map": "/Brett-Wine-Cheese/static/js/main.267176b3.js.map",
     "787.c67f3df0.chunk.js.map": "/Brett-Wine-Cheese/static/js/787.c67f3df0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8696d00c.css",
-    "static/js/main.eb37f079.js"
+    "static/css/main.000d2dfa.css",
+    "static/js/main.267176b3.js"
   ]
 }

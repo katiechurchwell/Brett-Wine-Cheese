@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Nav from './components/Nav';
+import Header from './components/Header';
 import Carousel from './components/Carousel';
 import About from './components/About';
 import Portfolio from './components/Portfolio';
@@ -15,10 +15,9 @@ function App() {
 
   return (
     <div>
-      <header>
-        <Nav
+        <Header
           handleView={handleView}>
-        </Nav></header>
+        </Header>
       <main>
         {(() => {
           switch (view) {

@@ -13,7 +13,7 @@ This portfolio was built for Brett Claus, a Pastry Chef, as an exercise in React
 ## Deployment
 http://katiechurchwell.github.io/Brett-Wine-Cheese
 ## Screenshot
-![Sceenshot of React Portfolio](./screenshot.png)
+![Sceenshot of React Portfolio](./demo.gif)
 ## Questions
   If you have any questions about this project, please open an issue or use the contact information below:
   * [katiechurchwell](https://www.github.com/katiechurchwell)

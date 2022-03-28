@@ -23,7 +23,6 @@ function ContactForm() {
                         <div>
                             <div className="row justify-content-center mt-3">
                                 <a href={link}><input type="submit" className="btn btn-primary m-1 w-25" name="submit" value="Send" /></a>
-                                <input type="reset" className="btn btn-primary m-1 w-25" name="reset" value="Clear Form" />
                             </div>
                         </div>
                     </form>

@@ -13,6 +13,15 @@ body {
   --tertiary: #dd7230;
 }
 
+a {
+  text-decoration: none;
+  color: var(--tertiary);
+}
+
+a:hover {
+ color: var(--tertiary);
+}
+
 .btn-primary {
   background-color: var(--tertiary) !important;
   border: none !important;
@@ -50,4 +59,8 @@ h1 {
 
 .modal-content {
   width: 60vw;
+}
+
+#headshot {
+  border-radius: 50%;
 }
